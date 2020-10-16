@@ -3,3 +3,6 @@ first local
 first change
 
 second change in first
+
+
+third change for fast forward merge

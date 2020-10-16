@@ -1,3 +1,7 @@
 for branch dev
 
+<<<<<<< HEAD
 17oct for reset
+=======
+change for fast forward merge
+>>>>>>> dev

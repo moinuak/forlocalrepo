@@ -6,3 +6,5 @@ second change in first
 
 
 third change for fast forward merge
+
+forth change for rebase common
